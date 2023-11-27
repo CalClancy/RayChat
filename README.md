@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instructions
 
 ## Download
@@ -136,3 +137,6 @@ You can check your live server is working by going to:
 ```plain
 http://localhost:4173/health
 ```
+=======
+# RobinChat
+>>>>>>> cb498f5d0ed503c0cb13a0af81f120569b5ba63a
